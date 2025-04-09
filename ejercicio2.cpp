@@ -19,7 +19,7 @@ int main() {
                 espacio += 22;
                 break;
             }
-            if (j >= 1 && j <= 9){
+            if (j >= 1 and j <= 9){
                 mes += "  ";
             }
             mes += to_string(k);
